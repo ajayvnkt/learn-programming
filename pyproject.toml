@@ -2,7 +2,7 @@
 name = "learn-programming"
 version = "1.0.0"
 description = "A comprehensive beginner-friendly Python learning program with hands-on examples and practical projects"
-authors = ["Venkata Ajay <your.email@example.com>"]
+authors = ["Venkata Ajay <vnktajay@gmail.com>"]
 readme = "README.md"
 license = "MIT"
 repository = "https://github.com/ajayvnkt/learn-programming"
